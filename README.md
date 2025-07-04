@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I am Sneha Talukdar 
 
-<!--
-**SnehaTalukdar/SnehaTalukdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student studying computer science and engineering with artificial intelligence and machine learning (B.Tech CSE (AI & ML)).
+💻 Investigating machine learning, data science, and practical problem solving.
+🧠 Currently, learning tasks and datasets are giving me practical experience.
 
-Here are some ideas to get you started:
+## 🛠️ Proficiency-
+> Java, C, and Python. 
+> Libraries: Pandas, NumPy, Scikit-learn, Matplotlib.
+> Tools: Git, Visual Studio Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Repositories-
+https://github.com/SnehaTalukdar?tab=repositories (- internship tasks).
+
+#### more independent projects are coming !
+
+##### Contact Me-
+Email - talukdarsneha2005@gmail.com
+LinkedIn - https://www.linkedin.com/in/sneha-talukdar-b7177b2a0/
+
+~ Learning with purpose. 
+~ Building from the heart.
+~ Warm Welcome to my adventure. 📚✏️🖊️✨
