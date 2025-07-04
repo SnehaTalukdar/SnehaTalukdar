@@ -11,11 +11,11 @@
 
 ## 🛠️ Proficiency-
 
-> Java, C, and Python.
+->> Java, C, and Python.
 
-> Libraries: Pandas, NumPy, Scikit-learn, Matplotlib.
+->> Libraries: Pandas, NumPy, Scikit-learn, Matplotlib.
 
-> Tools: Git, Visual Studio Code.
+->> Tools: Git, Visual Studio Code.
 
 
 
@@ -23,7 +23,10 @@
 https://github.com/SnehaTalukdar?tab=repositories (- internship tasks).
 
 
-#### more independent projects are coming !
+
+
+#### More Independent Projects Are Coming !
+
 
 
 
@@ -32,6 +35,7 @@ https://github.com/SnehaTalukdar?tab=repositories (- internship tasks).
 Email - talukdarsneha2005@gmail.com
 
 LinkedIn - https://www.linkedin.com/in/sneha-talukdar-b7177b2a0/
+
 
 
 
