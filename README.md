@@ -25,7 +25,7 @@
 
 
 
-### 📂 Repositories-
+## 📂 Repositories-
 https://github.com/SnehaTalukdar?tab=repositories (- internship tasks).
 
 
@@ -33,14 +33,14 @@ https://github.com/SnehaTalukdar?tab=repositories (- internship tasks).
 
 
 
-#### 📖 More Independent Projects Are Coming !
+## 📖 More Independent Projects Are Coming !
 
 
 
 
 
 
-##### 📌 Contact Me-
+### 📌 Contact Me-
 
 Email - talukdarsneha2005@gmail.com
 
@@ -49,6 +49,8 @@ LinkedIn - https://www.linkedin.com/in/sneha-talukdar-b7177b2a0/
 
 
 
+
+##
 👩🏻‍💻🤖📝
 
 ~ Learning with purpose.
